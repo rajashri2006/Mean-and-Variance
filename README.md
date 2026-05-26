@@ -1,5 +1,10 @@
 #  Mean and variance of a discrete  distribution
 
+# Date : 20-04-2026
+
+# Developed By : RAJASHRI I
+
+# Register Number : 212224040261
 
 # Aim : 
 
